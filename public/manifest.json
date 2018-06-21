@@ -1,0 +1,13 @@
+{
+  "name": "DataSecure",
+    "short_name": "DataSecure",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "standalone",
+    "orientation": "any",
+    "start_url": "/",
+    "scope": "/",
+    "description": "Data Secure",
+    "dir": "ltr",
+    "lang": "en-US"
+  }
