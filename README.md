@@ -9,7 +9,7 @@ Try this out
 
 In your terminal type (I assume you have git installed): git clone https://github.com/Karthick-Ramachandran/datasecure.git
 
-after that cd into the folder you cloned and finally
+after that cd into the folder you cloned.
 
 
 After changing the directory type: npm install (Make sure you have nodeJs installed)
